@@ -1,1 +1,2 @@
-hola como estan 
+ “En software pasamos un 20% de nuestro 
+tiempo escribiendo código productivo y 80% ¡depurándolo!”
